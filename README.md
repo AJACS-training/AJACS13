@@ -42,12 +42,12 @@
 
 * 13:30-13:45 「はじめに」
 * 13:45-14:00 「統合TV」
-* 14:00-14:45 [「生命科学横断検索の利用法」](http://MotDB.DBCLS.jp/?AJACS13%2Fore "AJACS13/ore (3180d)")
-* 14:45-15:15 [「遺伝子配列・発現データベースの利用法」](http://MotDB.DBCLS.jp/?AJACS13%2Fthecla "AJACS13/thecla (3152d)")
+* 14:00-14:45 [「生命科学横断検索の利用法」](01_kawano.md)
+* 14:45-15:15 [「遺伝子配列・発現データベースの利用法」](02_nakazato.md)
 * 15:15-15:25 休憩
 * 15:25-15:45 招待講演
-* 15:45-16:15 [「アナトモグラフィー/BodyParts3Dの利用法」 ](http://MotDB.DBCLS.jp/?AJACS13%2Fmitsuhashi "AJACS13/mitsuhashi (3163d)")
-* 16:15-16:45 [「Genome AnnotationとKazusaAnnotation」](http://MotDB.DBCLS.jp/?AJACS13%2Fso "AJACS13/so (3180d)")
+* 15:45-16:15 [「アナトモグラフィー/BodyParts3Dの利用法」 ](03_mitsuhashi.md)
+* 16:15-16:45 [「Genome AnnotationとKazusaAnnotation」](04_so.md)
 * 16:45-16:50 「おわりに」
 
 }}
